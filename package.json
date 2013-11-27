@@ -1,0 +1,15 @@
+{
+  "name": "docdoc-plugin-images",
+  "version": "0.0.1",
+  "description": "docdoc plugin to embed images, currently just pngs",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/preciousforever/docdoc-plugin-images"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Schieben <michael@precious-forever.com>",
+  "license": "BSD"
+}
